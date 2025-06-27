@@ -52,22 +52,16 @@ Install dependencies
 
 Create a virtual environment (optional but recommended):
 
-bash
-Copy
-Edit
+
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install required packages:
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Launch Jupyter Notebooks
 
-bash
-Copy
-Edit
+
 jupyter notebook
 Open and run the main notebooks in this order:
 
@@ -98,11 +92,6 @@ This project is open-source and available under the MIT License.
 
 🙋‍♂️ Contributing
 Feel free to fork the repo, make improvements, and submit a pull request. Let's build smarter healthcare together!
-
-yaml
-Copy
-Edit
-
 ---
 
 Let me know if you’d like help generating the `requirements.txt` file or customizing any part of the README for deployment or documentation.
